@@ -2,6 +2,14 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+  * (Christopher Green)
+  * (PlayerController.cs)
+  * (Assignment 4)
+  * (This script is what spawns the dog object when the space bar is pressed.)
+*/
+
+
 public class PlayerControllerX : MonoBehaviour
 {
     public GameObject dogPrefab;

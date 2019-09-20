@@ -2,6 +2,14 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
+/*
+  * (Christopher Green)
+  * (SpawnManager.cs)
+  * (Assignment 4)
+  * (This script handles that spawning of the ball objects that fall from the ceiling)
+*/
+
 public class SpawnManagerX : MonoBehaviour
 {
     public GameObject[] ballPrefabs;

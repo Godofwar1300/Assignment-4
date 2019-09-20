@@ -2,6 +2,13 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+  * (Christopher Green)
+  * (DestroyOutOfBoundsX.cs)
+  * (Assignment 4)
+  * (This script handles what happens when the dog and ball objects get to their respective limits)
+*/
+
 public class DestroyOutOfBoundsX : MonoBehaviour
 {
     private float leftLimit = -30;
